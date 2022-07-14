@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/it-vr/static/css/main.c90d4d62.css",
-    "main.js": "/it-vr/static/js/main.13886465.js",
+    "main.js": "/it-vr/static/js/main.e6391978.js",
     "static/js/787.d55f9e02.chunk.js": "/it-vr/static/js/787.d55f9e02.chunk.js",
     "static/media/Inter-ExtraBold.ttf": "/it-vr/static/media/Inter-ExtraBold.ff90249a320fd94ec508.ttf",
     "static/media/Inter-Bold.ttf": "/it-vr/static/media/Inter-Bold.1eca2d329458b92342aa.ttf",
     "static/media/Inter-SemiBold.ttf": "/it-vr/static/media/Inter-SemiBold.a41b925faf940d267b62.ttf",
     "static/media/Inter-Medium.ttf": "/it-vr/static/media/Inter-Medium.4ebf1acf62f447ea2f0d.ttf",
     "static/media/Inter-Regular.ttf": "/it-vr/static/media/Inter-Regular.a3e5baa244e35d0f891d.ttf",
+    "static/media/quantBuilding.jpeg": "/it-vr/static/media/quantBuilding.956d0ee9001d1b0a8c9f.jpeg",
     "static/media/vrBanner.jpeg": "/it-vr/static/media/vrBanner.61b0bac886a8f1907937.jpeg",
     "static/media/it-quantum.jpeg": "/it-vr/static/media/it-quantum.c4cec57a3a3bb31b402e.jpeg",
     "static/media/it-logo.png": "/it-vr/static/media/it-logo.2aaa26193986c28c7674.png",
@@ -19,11 +20,11 @@
     "static/media/telegram-svgrepo-com.svg": "/it-vr/static/media/telegram-svgrepo-com.8c45a8e3d6eb06eaddec.svg",
     "index.html": "/it-vr/index.html",
     "main.c90d4d62.css.map": "/it-vr/static/css/main.c90d4d62.css.map",
-    "main.13886465.js.map": "/it-vr/static/js/main.13886465.js.map",
+    "main.e6391978.js.map": "/it-vr/static/js/main.e6391978.js.map",
     "787.d55f9e02.chunk.js.map": "/it-vr/static/js/787.d55f9e02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c90d4d62.css",
-    "static/js/main.13886465.js"
+    "static/js/main.e6391978.js"
   ]
 }
