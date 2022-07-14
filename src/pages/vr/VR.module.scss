@@ -1,0 +1,49 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.title {
+    font-family: 'Inter';
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.imageWrapper {
+    margin-bottom: 60px;
+}
+
+.descriptionTitle {
+   font-weight: 600;
+   font-size: 20px;
+   margin-bottom: 20px;
+}
+
+.descriptionList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+    // margin-bottom: 50px;
+}
+
+
+.descriptionItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    // flex-basis: calc((100%/2 - 20px));
+    flex-basis: 400px;
+}
+
+.checkMark {
+    height: 15px;
+    width: 10px;
+    transform: rotate(45deg);
+    border-bottom: 5px solid rgba(61, 175, 241, 0.3882352941);
+    border-right: 5px solid rgba(61, 175, 241, 0.3882352941);
+}

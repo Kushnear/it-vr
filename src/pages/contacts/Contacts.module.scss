@@ -1,0 +1,48 @@
+.wrapper {
+    display: flex;
+    gap: 50px;
+    margin-bottom: 80px;
+}
+
+.imageWrapper {
+    width: 30%;
+    height: auto;
+}
+.imageWrapper img {
+    width: 100%;
+    height: auto;
+}
+
+.text {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.contactsCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contact {
+    display: flex;
+    gap: 30px;
+}
+
+.iconAdress {
+    height: 30px;
+    width: 30px;
+    background-image: url('../../icons/placeholder.svg');
+}
+
+.iconPhone {
+    height: 30px;
+    width: 30px;
+    background-image: url('../../icons/phone.svg');
+}
+
+.iconEmail {
+    height: 30px;
+    width: 30px;
+    background-image: url('../../icons/email.svg');
+}

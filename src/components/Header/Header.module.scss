@@ -1,0 +1,56 @@
+.wrapper {
+    box-shadow: 0px 9px 8px 0px rgba(34, 60, 80, 0.2);
+    padding: 10px 0;
+    margin-bottom: 80px;
+}
+
+.headerWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoWrapper {
+    display: flex;
+    // justify-content: space-between;
+    align-items: center;
+}
+
+.quantLogoLink {
+    width: 15%;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+// .quantLogo {
+//     // width: 15%;
+//     // margin-right: 20px;
+// }
+
+.logoText {
+    font-size: 20px;
+}
+
+
+.navigation {
+    display: flex;
+    align-items: center;
+}
+.navigationList {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.navigationLink {
+    font-size: 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.navigationLink:hover {
+    color: #3DB0F1;
+}
+
+.active {
+    border-bottom: 4px solid #3daff163;
+    // background-color: red;
+}

@@ -1,0 +1,41 @@
+.footer {
+    // position: fixed;
+    // bottom: 0;
+    display: flex;
+    justify-content: flex-start;
+
+    width: 100%;
+    padding: 30px;
+    margin-top: auto;
+
+    background-color: #E0DDDC;
+    
+}
+.footerWrapper {
+    display: block;
+}
+.text {
+    margin-bottom: 10px;
+}
+.textAccent{
+    font-weight: 600;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.emailIcon {
+    width: 30px;
+    height: 30px;
+    background-image: url('../../icons/gmail-svgrepo-com.svg');
+}
+
+.telegramIcon {
+    width: 30px;
+    height: 30px;
+    background: url('../../icons/telegram-svgrepo-com.svg');
+    background-size: cover;
+
+}

@@ -1,0 +1,39 @@
+.chooseText {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.cardWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    max-width: 60%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.vrCard {
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    align-items: center;
+    flex-basis: calc((100%/2) - 50px);
+    // flex-basis: 300px;
+    // background-color: hsl(120, 100%, 25%);
+    padding: 20px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.imgWrapper {
+    margin-bottom: 20px;
+    // width: 40%;
+    // height: 200px;
+}
+
+.cardTitle {
+    font-size: 35px;
+    font-weight: 700;
+    // color: red;
+}
+
